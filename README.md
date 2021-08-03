@@ -6,4 +6,4 @@
 
 # TECHNOLOGIES USED 📌
 
-## Front End 📫
+## UI Design 📫
