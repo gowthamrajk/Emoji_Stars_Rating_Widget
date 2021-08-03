@@ -7,3 +7,5 @@
 # TECHNOLOGIES USED 📌
 
 ## UI Design 📫
+
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
