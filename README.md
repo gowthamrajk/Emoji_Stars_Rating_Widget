@@ -5,3 +5,5 @@
 - Its is an Emoji Stars Rating Widget where you can rate stars and see the emoji reactions for it which is Designed by Pure CSS
 
 # TECHNOLOGIES USED 📌
+
+## Front End 📫
